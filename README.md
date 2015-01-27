@@ -1,6 +1,8 @@
 # CMPT391
 Hotel management system that involves room management, booking systems, and more features
-
+http://cs.wellesley.edu/~cs304/lectures/15-Entity-Relationships/
+http://ugweb.cs.ualberta.ca/~c291/W07/exams/solmt04b1.pdf
+http://ugweb.cs.ualberta.ca/~c291/W07/lab-slides/ER/ER.pdf
 http://candordeveloper.com/2013/01/08/creating-a-sql-server-database-project-in-visual-studio-2012/ great reference
 
 
