@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\C391Project\C391Project\bin\Debug\C391Project.exe.config
+C:\Users\Kevin\Documents\GitHub\CMPT391\C391_FRONTEND\C391Project\bin\Debug\C391Project.exe.config
