@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+C391Project
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.InvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Payment_MethodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.PersonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Room_TypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.RoomsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.InvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Payment_MethodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.PersonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Room_TypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.RoomsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.InvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Payment_MethodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.PersonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.Room_TypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.RoomsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet.ServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.InvoiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.Payment_MethodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.PersonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.Room_TypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.RoomsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.ServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._391backDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._391backDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._391backDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._391backDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication1._391backDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
